@@ -33,14 +33,14 @@ Analyse par composante principale [acp](./Supports/chap5_acp.md)
 
 ## Listes des exercices - révision
 
-- Sur les graphiques [Exercices](./Exercices/chap1_graphiques.md)
-- Sur les graphiques heatmap [Exercices](./Exercices/chap1_graphique_heatmap.md)
-- Sur les séries temporelles [Exercices](./Exercices/chap2_serie_temporelle.md)
+1. Sur les graphiques [Exercices](./Exercices/chap1_graphiques.md)
+1. Sur les graphiques heatmap [Exercices](./Exercices/chap1_graphique_heatmap.md)
+1. Sur les séries temporelles [Exercices](./Exercices/chap2_serie_temporelle.md)
 
 ------ Révision SQL 
 
-- TP sur Postgres installation [données](./Revision_SQL/install.md)
+1. TP sur Postgres installation [données](./Revision_SQL/install.md)
 
-- Exercices sur Postgres [exercices](./Revision_SQL/PostgreSQL/01_chap_relation_exercices.md)
+1. Exercices sur Postgres [exercices](./Revision_SQL/PostgreSQL/01_chap_relation_exercices.md)
 
-- QCM [qcm sql](./Revision_SQL/QCM_sql_relationnel.md)
+1. QCM [qcm sql](./Revision_SQL/QCM_sql_relationnel.md)
